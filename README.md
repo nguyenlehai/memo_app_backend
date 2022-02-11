@@ -1,4 +1,4 @@
-# memo_app_backend
+# memo_app_backend using NestJs
 <p>1, Setup Docker</p>
 
 <p>2, Run file:</p>
