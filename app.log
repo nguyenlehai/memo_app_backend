@@ -1,0 +1,381 @@
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:36:44 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:44 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (1)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:47 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (2)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:50 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (3)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:53 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (4)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:56 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (5)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:36:59 PM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (6)...[39m - {"stack":["Error: Unknown database 'markitone'\n    at Packet.asError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:29:26)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)"]}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:37:04 PM [92mApplication listening on port 5555[39m - {}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:38:08 PM [33m[AccountRepository][39m [31mCannot add or update a child row: a foreign key constraint fails (`markitone`.`account`, CONSTRAINT `FK_2d01dcea17c1dbaa448a235ac57` FOREIGN KEY (`companyId`) REFERENCES `company` (`companyid`))[39m - {"stack":["QueryFailedError: Cannot add or update a child row: a foreign key constraint fails (`markitone`.`account`, CONSTRAINT `FK_2d01dcea17c1dbaa448a235ac57` FOREIGN KEY (`companyId`) REFERENCES `company` (`companyid`))\n    at QueryFailedError.TypeORMError [as constructor] (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/TypeORMError.js:9:28)\n    at new QueryFailedError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/QueryFailedError.js:13:28)\n    at Query.onResult (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/driver/mysql/MysqlQueryRunner.js:193:57)\n    at Query.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:36:14)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)"]}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:38:47 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:27 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:39:28 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:03 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:40:04 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:41:48 PM [92mApplication listening on port 5555[39m - {}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:41:50 PM [33m[AccountRepository][39m [31mDuplicate entry 'Nguyenlehai-aimesoft' for key 'IDX_675be9201cdc8b6954091879ed'[39m - {"stack":["QueryFailedError: Duplicate entry 'Nguyenlehai-aimesoft' for key 'IDX_675be9201cdc8b6954091879ed'\n    at QueryFailedError.TypeORMError [as constructor] (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/TypeORMError.js:9:28)\n    at new QueryFailedError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/QueryFailedError.js:13:28)\n    at Query.onResult (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/driver/mysql/MysqlQueryRunner.js:193:57)\n    at Query.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:36:14)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)"]}
+[31m[NestWinston][39m [33mError[39m	1/25/2022, 3:42:25 PM [33m[AccountRepository][39m [31mDuplicate entry 'Nguyenlehai-aimesoft' for key 'IDX_675be9201cdc8b6954091879ed'[39m - {"stack":["QueryFailedError: Duplicate entry 'Nguyenlehai-aimesoft' for key 'IDX_675be9201cdc8b6954091879ed'\n    at QueryFailedError.TypeORMError [as constructor] (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/TypeORMError.js:9:28)\n    at new QueryFailedError (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/error/QueryFailedError.js:13:28)\n    at Query.onResult (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/typeorm/driver/mysql/MysqlQueryRunner.js:193:57)\n    at Query.execute (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/commands/command.js:36:14)\n    at PoolConnection.handlePacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/nguyenlehai/HaiNL1/MARKITONE/markitone_backend/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)"]}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:49 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:52:50 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:52 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 3:53:53 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:48 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 4:59:49 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmCoreModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mTokenModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mAccountModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mCompanyModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mCustomerModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mMemoModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[InstanceLoader][39m [92mAuthModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mAuthController {/api/v1/auth}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/sign-in, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mTokenController {/api/v1/token}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/refresh, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mAccountController {/api/v1/accounts}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mCompanyController {/api/v1/companies}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mCustomerController {/api/v1/customers}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RoutesResolver][39m [92mMemoController {/api/v1/memos}:[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, GET} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/, POST} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[RouterExplorer][39m [92mMapped {/:memoId, PUT} route[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [33m[NestApplication][39m [92mNest application successfully started[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/25/2022, 5:02:03 PM [92mApplication listening on port 5555[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:36:56 AM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:36:56 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (1)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:36:59 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (2)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:02 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (3)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:05 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (4)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:08 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (5)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:11 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (6)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:14 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (7)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:17 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (8)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:37:20 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (9)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[NestFactory][39m [92mStarting Nest application...[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[InstanceLoader][39m [92mAppModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[InstanceLoader][39m [92mPassportModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[InstanceLoader][39m [92mTypeOrmModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[InstanceLoader][39m [92mJwtModule dependencies initialized[39m - {}
+[92m[NestWinston][39m [33mInfo[39m	1/26/2022, 10:39:03 AM [33m[InstanceLoader][39m [92mWinstonModule dependencies initialized[39m - {}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:03 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (1)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:06 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (2)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:09 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (3)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:12 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (4)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:15 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (5)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:18 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (6)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:21 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (7)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:24 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (8)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}
+[31m[NestWinston][39m [33mError[39m	1/26/2022, 10:39:27 AM [33m[TypeOrmModule][39m [31mUnable to connect to the database. Retrying (9)...[39m - {"stack":["Error: connect ECONNREFUSED 127.0.0.1:3333\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)"]}

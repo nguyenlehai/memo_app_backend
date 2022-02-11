@@ -1,0 +1,21 @@
+SERVER:
+    PORT: 5555
+    NODE_ENV: 'production'
+DB:
+    TYPE: "mysql"
+#    HOST: "mysqldb"
+#    PORT: 3306
+    HOST: "localhost"
+    PORT: 3333
+    USERNAME: "root"
+    PASSWORD: "root"
+    DATABASE: "markitone"
+    SYNCHRONIZE: true
+    MIGRATIONSRUN: false
+
+JWT:
+    SECRET_KEY: "thisissecretkey"
+    REFRESH_TOKEN_EXPIRATION_DAYS: 30
+    RESET_PASSWORD_EXPIRATION_DAYS: 1
+    ACCESS_TOKEN_EXPIRATION_DAYS: 1
+    SALT: 10
